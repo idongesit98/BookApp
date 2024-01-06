@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Librebook</string>
+    <string name="bar_name">Welcome Robson!</string>
+    <string name="icon_name">Image Icon</string>
+    <string name="paging_img">People reading</string>
+    <string name="book_img">Api Book Img</string>
+    <string name="bottom_nav_icon">Bottom Navigation Icon</string>
+    <string name="screen_home">Home</string>
+    <string name="screen_search">Search Screen</string>
+    <string name="screen_details">Details</string>
+    <string name="screen_fav">Screen Fav</string>
+    <string name="back_button">Back Button</string>
+    <string name="book_details">Book Details</string>
+    <string name="desc">Description</string>
+    <string name="cat_name">Category</string>
+    <string name="popular">Popular Books</string>
+    <string name="biography">Biography Books</string>
+    <string name="children">Children Books</string>
+    <string name="cooking">Cooking Books</string>
+    <string name="english">Literature Books</string>
+    <string name="french_finnish">French/Finnish</string>
+    <string name="geology">Geology Books</string>
+    <string name="history">History Books</string>
+    <string name="law">Law Books</string>
+    <string name="mystery">Mystery Books</string>
+    <string name="science">Science Books</string>
+    <string name="spanish">Spanish Books</string>
+    <string name="war">War Books</string>
+    <string name="search">Search for a book or a writer</string>
+
+</resources>
