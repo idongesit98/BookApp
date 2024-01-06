@@ -29,10 +29,10 @@ are welcome.
 ### Contributing 
 Pull request are welcomed. For major changes please open and issue first to discuss what you would like to change
 
-<img src = "image/Home.jpg" alt ="App Image">
-<img src = "image/search.jpg" alt ="App Image">
-<img src = "image/category.jpg" alt ="App Image">
-<img src = "image/category_2.jpg" alt ="App Image">
+<img src="images/cat.jpg" alt ="App Image"/>
+<img src="images/search.jpg" alt ="App Image"/>
+<img src="images/category.jpg" alt ="App Image"/>
+<img src="images/cat.jpg" alt ="App Image"/>
 
 ### Support 
 If you like the project, please consider supporting it by giving a star 
