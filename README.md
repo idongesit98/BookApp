@@ -32,7 +32,7 @@ Pull request are welcomed. For major changes please open and issue first to disc
 <img src="images/cat.jpg" alt ="App Image"/>
 <img src="images/search.jpg" alt ="App Image"/>
 <img src="images/category.jpg" alt ="App Image"/>
-<img src="images/cat.jpg" alt ="App Image"/>
+<img src="images/home.jpg" alt ="App Image"/>
 
 ### Support 
 If you like the project, please consider supporting it by giving a star 
